@@ -1,4 +1,4 @@
-![MES Logo](https://raw.githubusercontent.com/miniCloudMES/miniCloudMES.github.io/971416a8b75ca80d9fc391e08ec0e9efeb0ec562/Pictures/MES%20Logo.png)
+![MES Logo](./Pictures/MES%20Logo.png)
 ## This is the Home Page of mini MES@Cloud Company.
 ### mini MES@Cloud is a platform for Manufacture Manufacture Execution System on remote computer (Cloud).
 
