@@ -1,4 +1,4 @@
-![MES Logo](./Pictures/MES Logo.png)
+![MES Logo](Pictures/MES Logo.png)
 ## This is the Home Page of mini MES@Cloud Company.
 ### mini MES@Cloud is a plateform for Manufacture Manufacture Execution System on remote computer (Cloud).
 
@@ -15,7 +15,7 @@
 * Blackchain to proof of data
 * IOT(Internet of Things) to clollect data
 * AI(Airtifical Intelligence) to help you make decision and predict build plan.
-![ProtoType](./Pictures/mini MES.jpg)
+![ProtoType](Pictures/mini MES.jpg)
 ### We provide humanized managment, respect to everyone and accept any suggestion.
 
 * This is a new comapny and luanch at 2018/7/16, we are welcom any one who has passion to join us to create the magical plateform.
