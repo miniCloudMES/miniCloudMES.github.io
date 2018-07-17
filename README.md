@@ -1,4 +1,4 @@
-![MES Logo](./Pictures/MES%20Logo.png)
+![MES Logo](./Pictures/MES-Logo.png)
 ## This is the Home Page of mini MES@Cloud Company.
 ### mini MES@Cloud is a platform for Manufacture Manufacture Execution System on remote computer (Cloud).
 
@@ -12,13 +12,13 @@
 
 ### The Platform has use those technology as below:
 * Cloud computing and storage
-* Blackchain to proof of data
-* IOT(Internet of Things) to clollect data
+* Blockchain to proof of data
+* IOT(Internet of Things) to collect data
 * AI(Artificial Intelligence) to help you make decision and predict build plan.
-![ProtoType](./Pictures/mini%20MES.jpg)
+![ProtoType](./Pictures/mini-MES.jpg)
 ### We provide humanized management, respect to everyone and accept any suggestion.
 
 * This is a new company and launch at 2018/7/16, we are welcome any one who has passion to join us to create the magical platform.
 * We designed the real decentralized organization for each one, you can go into the future team work environment.
-![Decentralized Org](./Pictures/Decentralized%20Org.jpg)
+![Decentralized Org](./Pictures/Decentralized-Org.jpg)
 * You can mail to me <karolin@livemail.tw> for any question.
