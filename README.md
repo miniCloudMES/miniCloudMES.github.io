@@ -20,5 +20,5 @@
 
 * This is a new company and launch at 2018/7/16, we are welcome any one who has passion to join us to create the magical platform.
 * We designed the real decentralized organization for each one, you can go into the future team work environment.
-![Decentralized Org](./Pictures/Decentralized Org.jpg)
+![Decentralized Org](./Pictures/Decentralized%20Org.jpg)
 * You can mail to me <karolin@livemail.tw> for any question.
