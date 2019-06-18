@@ -1,7 +1,9 @@
 ![MES Logo](./Pictures/MES-Logo.png)
 ## This is the Home Page of mini MES@Cloud Company.
-### mini MES@Cloud is a platform for Manufacture Execution System on remote computer (Cloud).
+## 這是一個微型的雲端工廠管理系統，開發基礎於半導體工業需求。
 
+### mini MES@Cloud is a platform for Manufacture Execution System on remote computer (Cloud).
+### 微型雲端工廠管理系統平台是屬於大眾的雲端管理系統，該系統建立在雲端以便於使用者在世界任何一個角落都能使用。
 * We help you monitor and control your manufacture at **any place** on **any time**.
 * The Data of every process will store on cloud.
 * Data analysis and report can come out from cloud.
