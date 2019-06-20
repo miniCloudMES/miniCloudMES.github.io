@@ -1,7 +1,7 @@
 *Hello, This page is to show basic information of the founder for mini mes@Cloud Org.*
 
 --
-<img src="./Pictures/IMG_2205.jpg" style="zoom:15%" div align=right>  
+<img src="Pictures/IMG_2205.JPG" style="zoom:15%" div align=right>  
 **個人資料簡介**  
 中文姓名：林侊懋  
 英文姓名：Karo Lin  
