@@ -3,7 +3,7 @@
 --
 <img src="Pictures/IMG_2205.JPG" height="15%" width="15%" div align=right>  
 **個人資料簡介**  
-中文姓名：林侊懋  
+中文姓名：林宏茂  
 英文姓名：Karo Lin  
 出生年份：西元1969年  
 國籍：中華民國  
